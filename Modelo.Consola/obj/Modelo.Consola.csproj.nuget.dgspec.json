@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Consola\\Modelo.Consola.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Consola\\Modelo.Consola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Consola\\Modelo.Consola.csproj",
+        "projectName": "Modelo.Consola",
+        "projectPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Consola\\Modelo.Consola.csproj",
+        "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Consola\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj": {
+                "projectPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj"
+              },
+              "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Persistencia\\Modelo.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Persistencia\\Modelo.Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj",
+        "projectName": "Modelo.Dominio",
+        "projectPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj",
+        "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Persistencia\\Modelo.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Persistencia\\Modelo.Persistencia.csproj",
+        "projectName": "Modelo.Persistencia",
+        "projectPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Persistencia\\Modelo.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj": {
+                "projectPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

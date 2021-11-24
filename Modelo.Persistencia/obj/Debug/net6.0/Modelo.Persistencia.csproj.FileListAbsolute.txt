@@ -1,0 +1,17 @@
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\bin\Debug\net6.0\Modelo.Persistencia.deps.json
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\bin\Debug\net6.0\Modelo.Persistencia.runtimeconfig.json
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\bin\Debug\net6.0\Modelo.Persistencia.dll
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\bin\Debug\net6.0\ref\Modelo.Persistencia.dll
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\bin\Debug\net6.0\Modelo.Persistencia.pdb
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\bin\Debug\net6.0\Modelo.Dominio.dll
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\bin\Debug\net6.0\Modelo.Dominio.pdb
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\obj\Debug\net6.0\Modelo.Persistencia.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\obj\Debug\net6.0\Modelo.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\obj\Debug\net6.0\Modelo.Persistencia.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\obj\Debug\net6.0\Modelo.Persistencia.AssemblyInfo.cs
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\obj\Debug\net6.0\Modelo.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\obj\Debug\net6.0\Modelo.Persistencia.csproj.CopyComplete
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\obj\Debug\net6.0\Modelo.Persistencia.dll
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\obj\Debug\net6.0\ref\Modelo.Persistencia.dll
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\obj\Debug\net6.0\Modelo.Persistencia.pdb
+C:\Users\SENA\Documents\ModeloDBFrutos\Modelo.Persistencia\obj\Debug\net6.0\Modelo.Persistencia.genruntimeconfig.cache
