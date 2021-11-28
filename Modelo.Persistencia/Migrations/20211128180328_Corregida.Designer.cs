@@ -12,8 +12,8 @@ using Modelo.Persistencia;
 namespace Modelo.Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20211124011013_Inicial")]
-    partial class Inicial
+    [Migration("20211128180328_Corregida")]
+    partial class Corregida
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -62,8 +62,11 @@ namespace Modelo.Persistencia.Migrations
 
             modelBuilder.Entity("Modelo.Dominio.Cliente", b =>
                 {
-                    b.Property<string>("Id")
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
                     b.Property<string>("Ciudad")
                         .IsRequired()
@@ -136,9 +139,8 @@ namespace Modelo.Persistencia.Migrations
                     b.Property<DateTime>("Fecha")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("IdClienteId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("IdClienteId")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 

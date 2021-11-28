@@ -1859,19 +1859,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SENA\\.nuget\\packages\\": {}
+    "C:\\Users\\JC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Consola\\Modelo.Consola.csproj",
+      "projectUniqueName": "C:\\Users\\JC\\Documents\\ModeloDBFrutos\\Modelo.Consola\\Modelo.Consola.csproj",
       "projectName": "Modelo.Consola",
-      "projectPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Consola\\Modelo.Consola.csproj",
-      "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Consola\\obj\\",
+      "projectPath": "C:\\Users\\JC\\Documents\\ModeloDBFrutos\\Modelo.Consola\\Modelo.Consola.csproj",
+      "packagesPath": "C:\\Users\\JC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JC\\Documents\\ModeloDBFrutos\\Modelo.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1885,11 +1885,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj": {
-              "projectPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj"
+            "C:\\Users\\JC\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj": {
+              "projectPath": "C:\\Users\\JC\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj"
             },
-            "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Persistencia\\Modelo.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Persistencia\\Modelo.Persistencia.csproj"
+            "C:\\Users\\JC\\Documents\\ModeloDBFrutos\\Modelo.Persistencia\\Modelo.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\JC\\Documents\\ModeloDBFrutos\\Modelo.Persistencia\\Modelo.Persistencia.csproj"
             }
           }
         }

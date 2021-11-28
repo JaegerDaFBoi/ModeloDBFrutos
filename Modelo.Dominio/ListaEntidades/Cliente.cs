@@ -2,7 +2,7 @@ namespace Modelo.Dominio
 {
     public class Cliente //Relaciona a clase Factura. Relacion de 1 a Muchos 
     {
-        public string Id { get; set; }
+        public int Id { get; set; }
         public TipoCliente tipoCliente { get; set; }
         public string Nombre { get; set; }
         public int Documento { get; set; }

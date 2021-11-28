@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SENA\\.nuget\\packages\\": {}
+    "C:\\Users\\JC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\JC\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj",
       "projectName": "Modelo.Dominio",
-      "projectPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj",
-      "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SENA\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\obj\\",
+      "projectPath": "C:\\Users\\JC\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\Modelo.Dominio.csproj",
+      "packagesPath": "C:\\Users\\JC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JC\\Documents\\ModeloDBFrutos\\Modelo.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
